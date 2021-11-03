@@ -1,11 +1,11 @@
 #
-
-## Hello, I'm Claick Oliveira 👋
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello! I am <a href="https://github.com/claick-oliveira">Claick Oliveira</a>
+</h1>
 
 <div align="center">
   <a href="https://github.com/claick-oliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claick-oliveira&count_private=true&show_icons=true&include_all_commits&custom_title=Claick's%20GitHub%20Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claick-oliveira&layout=compact&hide=HTML,jupyter%20notebook&count_private=true&langs_count=10"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=claick-oliveira&count_private=true&show_icons=true&include_all_commits&custom_title=Claick's%20GitHub%20Stats"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claick-oliveira&layout=compact&hide=HTML,jupyter%20notebook&count_private=true&langs_count=10"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -26,3 +26,7 @@
   ![Snake animation](https://github.com/claick-oliveira/claick-oliveira/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+##
+
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=claick-oliveira&color=00df00)
