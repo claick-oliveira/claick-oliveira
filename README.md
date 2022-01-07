@@ -21,12 +21,4 @@
 
 ##
 
-<div>
-
-  ![Snake animation](https://github.com/claick-oliveira/claick-oliveira/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-##
-
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=claick-oliveira&color=00df00)
