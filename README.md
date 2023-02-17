@@ -20,5 +20,3 @@
 </div>
 
 ##
-
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=claick-oliveira&color=00df00)
