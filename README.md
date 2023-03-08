@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/claick-oliveira">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=claick-oliveira&count_private=true&show_icons=true&include_all_commits&custom_title=Claick's%20GitHub%20Stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claick-oliveira&layout=compact&hide=HTML,jupyter%20notebook,Vim%20script,Shell,Makefile,Dockerfile&langs_count=10"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=claick-oliveira&count_private=true&show_icons=true&include_all_commits&custom_title=Claick's%20GitHub%20Stats"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=claick-oliveira&layout=compact&hide=HTML,jupyter%20notebook,Vim%20script,Shell,Makefile,Dockerfile&langs_count=10"/>
 </div>
 
 <div style="display: inline_block"><br>
